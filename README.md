@@ -1,8 +1,5 @@
 from GitHub import ReadMe
 
-class Dropout(ReadMe):
-    "/Dropout1337/Dropout1337/README.md"
-
     def __init__(self):
         self.username = "zt"
         self.contacts = {
