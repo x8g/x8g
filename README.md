@@ -11,6 +11,6 @@ from GitHub import ReadMe
             "daddy zt"
         ]
         self.location = "LA"
-        self.age = "14"
-        self.occupation = "money $$"
+        self.age = "??"
+        self.occupation = "money"
         self.operating_system = "Windows"
