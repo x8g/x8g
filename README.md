@@ -1,7 +1,7 @@
 <h1 align="center">zt</h1>
 <h3 align="center">help me.</h3>
 <p align = "center">
-<img src="[https://c.tenor.com/a2txYG5kHe0AAAAC/lucci-block6.gif](https://th.bing.com/th/id/R.856e5f3ed2fa435264c571d20fe4827d?rik=ZZCVNhQ6WhC6rg&pid=ImgRaw&r=0)">
+<img src="https://th.bing.com/th/id/R.856e5f3ed2fa435264c571d20fe4827d?rik=ZZCVNhQ6WhC6rg&pid=ImgRaw&r=0">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x8g&label=Profile%20views&color=blueviolet&style=flat\" alt="zt" /> </p>
