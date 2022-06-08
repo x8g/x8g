@@ -2,7 +2,8 @@
 <h3 align="center">help me.</h3>
 <h3 align="center">join! https://discord.gg/TTAHd3YwdJ</h3>
 <p align = "center">
-<img src="https://th.bing.com/th/id/R.856e5f3ed2fa435264c571d20fe4827d?rik=ZZCVNhQ6WhC6rg&pid=ImgRaw&r=0">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=x8gs&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x8g&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x8g&label=Profile%20views&color=blueviolet&style=flat\" alt="zt" /> </p>
