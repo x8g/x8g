@@ -3,7 +3,8 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x8g&label=Profile%20views&color=blueviolet&style=flat\" alt="zt" /> </p>
 <h3 align="left">Connect with me: </h3>
-<h3 align="left">TikTok: @140h, Insta: @pop1forzt, Snap: yea.zt</h3>
+<h3 align="left">TikTok</h3>
+<img align="left" src="https://tiktok.com/@140h"/>
 <p align="left">
 </p>
 <h3 align="left">Languages im learning: </h3>
