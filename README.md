@@ -2,3 +2,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x8g&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x8g&label=Profile%20views&color=blueviolet&style=flat\" alt="zt" /> </p>
+
+[My website](https://qtzt.cf)
