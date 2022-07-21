@@ -8,7 +8,7 @@ ____  _______
 /___     |
 
 zt#7380
- discord.gg/put
+discord.gg/put
 '''
 print(Colorate.Horizontal(Colors.blue_to_cyan, logo))
 ```
