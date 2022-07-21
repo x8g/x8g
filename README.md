@@ -1,7 +1,5 @@
 ```py
 from pystyle import *
-import httpx
-
 
 zt = '''       
 ____  _______
@@ -9,10 +7,8 @@ ____  _______
  /       |
 /___     |
 
- _________  
-[ zt#7380 ]
-[ .gg/4cs ]
-[_________]
+zt#7380
+ discord.gg/put
 '''
 print(Colorate.Horizontal(Colors.blue_to_cyan, logo))
 ```
